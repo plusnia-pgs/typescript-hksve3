@@ -1,0 +1,14 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/fingerprintjs2": "^2.0.0",
+    "@types/jquery": "^3.3.29",
+    "bowser": "^2.1.0",
+    "fingerprintjs2": "^2.1.0",
+    "jquery": "^3.3.1",
+    "jquery-migrate": "^3.0.1",
+    "sha.js": "^2.4.11"
+  }
+}
